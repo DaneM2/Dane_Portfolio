@@ -40,6 +40,38 @@ Approximatley 145,000 time series:
 
 ![](images/TImeseries%20avg%20traffic%20WIKI.png)
 
+## The Variables:
+* locale data includes 7 languages: German, English, Spanish, French, Japanese, Russian, and Chinese
+* Access: Platform used to view page
+* Agent being a real person and spider being a bot used to index content
+
+![](images/Variables.png)
+
+## Understanding Trends
+### Looking for any trends in the distribution
+* Broken down by min, max, mean, median, standard deviation, and slope
+
+![](images/Trends.PNG)
+
+## Outliers
+Clear examples of outliers. Zero views for all dates, spikes to over 10^6
+
+![](images/Outliers.png)
+
+## Model Selection - Arima
+
+
+
+## Auto.Arima Results
+
+## Residuals
+
+## Prophet Model
+
+## Improvements
+
+## References
+
 # [Project 2: Multiple-Regression-Project](https://github.com/DaneM2/Multiple-Regression-Project/tree/main)
 ## Sigma Coding Multiple Regression Project
 Performed a multiple regression analysis on South Korea's GDP growth. South Korea in the 1950s came out of the Korean War, which left it's country ravaged and in extreme poverty.
