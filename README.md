@@ -4,6 +4,24 @@ Data Analytics | Data Science portfolio
 # [Project 1: Web-Traffic-Forecasting---Capstone](https://github.com/DaneM2/Web-Traffic-Forecasting---Capstone)
 This project looks at the problem of forecasting future values of time-series data. Wikipedia has over 145,000 articles and their view counts available to analyze. Following the Exploratory Data Analysis (EDA) process I was able to develop an Auto-Regressive Integrated Moving Average (ARIMA) model that showed a prediction of view counts for the following 45 – 60 days. Web forecasting is gaining popularity and has many applications including load balancing for cloud services, and understanding user behavior.
 
+## What is Web Traffic Forecasting?
+* Predict web traffic trends based on historic data
+* Develop strategies for Load balancing applications
+* Better understand user behavior
+
+## Potential Customers
+ Businesses looking for insights on web traffic to improve efficiency and gain a competitive edge\
+ Forecasting is ubiquitous across industries:
+ * Operations
+ * Retail
+ * Marketing
+ * Logistics
+
+# Exploratory Data Analysis (EDA)
+### Software:
+**R with Rstudio to do analysis:** tidyverse, plotly, forecast, prophet, ggplot2, dplyr
+
+## Data source:
 ![](images/Timeseries%20WIKI.png)
 ![](images/TImeseries%20avg%20traffic%20WIKI.png)
 
