@@ -59,12 +59,27 @@ Clear examples of outliers. Zero views for all dates, spikes to over 10^6
 ![](images/Outliers.png)
 
 ## Model Selection - Arima
+### Stands for Auto Regressive Integrated Moving Average
+* **ARIMA** has 3 terms AR, I, and MA
+* (AR) corresponds to Lags of the stationarized series
+* (MA) corresponds to lags of the forecast error
+* (I) corresponds to order of differencing of series to make it stationary
+* Captures complex relationships through an iterative process of regressing a variable: Views ~ Dates\
 
-
+*AR Model*: This model forecasts future values based on the immediate prior value in the time-series\
+*MA Model*: equal to the past error multiplied by the coefficient
 
 ## Auto.Arima Results
+### Prediction Length of 45 Days
+
+![](images/Auto_Arima.png)
 
 ## Residuals
+* Strong p-value = 0 .017 (less than 0.05)
+* Residuals are normally distributed
+* Mostly absent of autocorrelation 
+*
+![](images/Ljung-box%20test.png)
 
 ## Prophet Model
 
