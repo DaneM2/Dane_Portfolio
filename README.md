@@ -19,10 +19,25 @@ This project looks at the problem of forecasting future values of time-series da
 
 # Exploratory Data Analysis (EDA)
 ### Software:
-**R with Rstudio to do analysis:** tidyverse, plotly, forecast, prophet, ggplot2, dplyr
+**R with Rstudio:** tidyverse, plotly, forecast, prophet, ggplot2, dplyr
 
 ## Data source:
+Source: https://www.kaggle.com/c/web-traffic-time-series-forecasting/data \
+Approximatley 145,000 time series:
+* Daily page views, 2015-07-01 to 2016-12-31
+
+![](images/data.PNG)
+
+## Cleaning and Transformation
+* Checked for missing values using is.na 
+* Seperated the date and pages to seperate tibbles for visualization
+* Renamed and restructured page values to be easier to work with
+
+![](images/cleaned%20data.PNG)
+
+### Time-series Extraction
 ![](images/Timeseries%20WIKI.png)
+
 ![](images/TImeseries%20avg%20traffic%20WIKI.png)
 
 # [Project 2: Multiple-Regression-Project](https://github.com/DaneM2/Multiple-Regression-Project/tree/main)
