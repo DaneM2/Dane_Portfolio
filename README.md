@@ -4,8 +4,8 @@ Data Analytics | Data Science portfolio
 # [Project 1: Web-Traffic-Forecasting---Capstone](https://github.com/DaneM2/Web-Traffic-Forecasting---Capstone)
 This project looks at the problem of forecasting future values of time-series data. Wikipedia has over 145,000 articles and their view counts available to analyze. Following the Exploratory Data Analysis (EDA) process I was able to develop an Auto-Regressive Integrated Moving Average (ARIMA) model that showed a prediction of view counts for the following 45 – 60 days. Web forecasting is gaining popularity and has many applications including load balancing for cloud services, and understanding user behavior.
 
-![](https://github.com/DaneM2/Dane_Portfolio/blob/main/images/Timeseries%20WIKI.png)/
-![](https://github.com/DaneM2/Dane_Portfolio/blob/main/images/TImeseries%20avg%20traffic%20WIKI.png)
+![](images/Timeseries%20WIKI.png)
+![](images/TImeseries%20avg%20traffic%20WIKI.png)
 
 # [Project 2: Multiple-Regression-Project](https://github.com/DaneM2/Multiple-Regression-Project/tree/main)
 ## Sigma Coding Multiple Regression Project
