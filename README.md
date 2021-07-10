@@ -115,8 +115,11 @@ https://people.duke.edu/~rnau/411arim.htm
 ---
 
 
-# [Project 2: Simple-Linear-Regression](https://github.com/DaneM2/Linear-Regression-Project-Sigma-Coding)
-**Code is Linked to Title** \
-Modeled the relationships between two financial assets, the price of a single share of Exxon Mobile stock and the price of a barrel of oil. The question we are trying to answer is, does the explanatory variable (Oil) do a good job at predicting the dependent variable (a single share of Exxon Mobile stock.)
+# [Project 2: Multiple-Linear-Regression](https://github.com/DaneM2/Multiple-Regression-Project)
+**Code is Linked to Title** 
+
+Performed a multiple regression analysis on South Korea's GDP growth. South Korea in the 1950s came out of the Korean War, which left it's country ravaged and in extreme poverty. However, South Korea would go through one most significant economic developments the World has seen, taking it from a country in poverty to one of the top 15 economies in the World today.
+
+![](images/correlation%20matrix.png)   ![](https://github.com/DaneM2/Dane_Portfolio/blob/main/images/qqplot.png)
 
 # Project 3: Covid19-SQL-Exploration
