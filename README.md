@@ -103,13 +103,13 @@ Clear examples of outliers. Zero views for all dates, spikes to over 10^6
 ![](images/Hyperparam.png)
 
 ## References
-https://www.mediawiki.org/wiki/API:Main_page
-https://www.kaggle.com/c/web-traffic-time-series-forecasting
-https://www.rdocumentation.org/packages/forecast/versions/8.15/topics/auto.arima
-https://otexts.com/fpp2/arima-r.html
-https://plotly.com/ggplot2/
-https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
-https://medium.com/swlh/wikipedia-web-traffic-time-series-forecasting-part-1-e43734adca3d
+https://www.mediawiki.org/wiki/API:Main_page \
+https://www.kaggle.com/c/web-traffic-time-series-forecasting \
+https://www.rdocumentation.org/packages/forecast/versions/8.15/topics/auto.arima \
+https://otexts.com/fpp2/arima-r.html \
+https://plotly.com/ggplot2/ \
+https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf \
+https://medium.com/swlh/wikipedia-web-traffic-time-series-forecasting-part-1-e43734adca3d \
 https://people.duke.edu/~rnau/411arim.htm
 
 ---
