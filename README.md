@@ -55,6 +55,7 @@ Approximatley 145,000 time series:
 
 ## Outliers
 Clear examples of outliers. Zero views for all dates, spikes to over 10^6
+ * tsclean() from forecast library does well with these values
 
 ![](images/Outliers.png)
 
@@ -78,14 +79,41 @@ Clear examples of outliers. Zero views for all dates, spikes to over 10^6
 * Strong p-value = 0 .017 (less than 0.05)
 * Residuals are normally distributed
 * Mostly absent of autocorrelation 
-*
+
 ![](images/Ljung-box%20test.png)
 
+![](images/Residuals%20for%20Arima.png)
+
 ## Prophet Model
+* Implementation of the Prophet library
+* Non-linear trends are fitted with yearly seasonality effects
+
+![](images/Prophet.png)
+
+* Prophet components plotted
+* Clear dip in views for middle of the year
+
+![](images/Prophet%202.png)
 
 ## Improvements
+* Include more relevant dates - Kaggle and API only provided up to 2016 
+* Determine specific seasonality effects and tune accordingly
+* Overall increase in model performance
+
+![](images/Hyperparam.png)
 
 ## References
+https://www.mediawiki.org/wiki/API:Main_page
+https://www.kaggle.com/c/web-traffic-time-series-forecasting
+https://www.rdocumentation.org/packages/forecast/versions/8.15/topics/auto.arima
+https://otexts.com/fpp2/arima-r.html
+https://plotly.com/ggplot2/
+https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+https://medium.com/swlh/wikipedia-web-traffic-time-series-forecasting-part-1-e43734adca3d
+https://people.duke.edu/~rnau/411arim.htm
+
+---
+
 
 # [Project 2: Multiple-Regression-Project](https://github.com/DaneM2/Multiple-Regression-Project/tree/main)
 ## Sigma Coding Multiple Regression Project
