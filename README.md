@@ -17,7 +17,7 @@ This project looks at the problem of forecasting future values of time-series da
  * Marketing
  * Logistics
 
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 ### Software:
 **R with Rstudio:** tidyverse, plotly, forecast, prophet, ggplot2, dplyr
 
