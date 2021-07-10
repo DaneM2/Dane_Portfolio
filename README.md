@@ -116,7 +116,7 @@ https://people.duke.edu/~rnau/411arim.htm
 
 
 # [Project 2: Simple-Linear-Regression](https://github.com/DaneM2/Linear-Regression-Project-Sigma-Coding)
-## Code is Linked to Title
+**Code is Linked to Title** \
 Modeled the relationships between two financial assets, the price of a single share of Exxon Mobile stock and the price of a barrel of oil. The question we are trying to answer is, does the explanatory variable (Oil) do a good job at predicting the dependent variable (a single share of Exxon Mobile stock.)
 
 # Project 3: Covid19-SQL-Exploration
